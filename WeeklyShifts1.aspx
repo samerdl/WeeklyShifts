@@ -23,7 +23,7 @@
     </table>
 
     <script type="text/javascript">
-        const flowUrl = "https://make.powerautomate.com/environments/Default-14011d5f-65a5-4d3e-becc-2894a6bafb41/flows/8e3b0486-a533-4ee4-a5b5-fe36635f71e5?v3=true"; // replace with your manual trigger URL
+        const flowUrl = ""; // replace with your manual trigger URL
 
         function formatDate(dateStr) {
             const d = new Date(dateStr);
@@ -83,3 +83,4 @@
     </form>
 </body>
 </html>
+
